@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/tabbgroup/mgo/internal/json"
+	"github.com/fatsoma/tabb-mgo/internal/json"
 )
 
 // UnmarshalJSON unmarshals a JSON value that may hold non-standard

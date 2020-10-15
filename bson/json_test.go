@@ -1,7 +1,7 @@
 package bson_test
 
 import (
-	"github.com/tabbgroup/mgo/bson"
+	"github.com/fatsoma/tabb-mgo/bson"
 
 	"reflect"
 	"strings"

@@ -6,7 +6,7 @@ import (
 
 	"strings"
 
-	"github.com/tabbgroup/mgo/internal/scram"
+	"github.com/fatsoma/tabb-mgo/internal/scram"
 	. "gopkg.in/check.v1"
 )
 

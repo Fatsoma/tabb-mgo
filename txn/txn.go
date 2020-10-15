@@ -14,9 +14,9 @@ import (
 	"strings"
 	"sync"
 
-	mgo "github.com/tabbgroup/mgo"
+	mgo "github.com/fatsoma/tabb-mgo"
 
-	"github.com/tabbgroup/mgo/bson"
+	"github.com/fatsoma/tabb-mgo/bson"
 
 	crand "crypto/rand"
 	mrand "math/rand"

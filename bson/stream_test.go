@@ -3,7 +3,7 @@ package bson_test
 import (
 	"bytes"
 
-	"github.com/tabbgroup/mgo/bson"
+	"github.com/fatsoma/tabb-mgo/bson"
 	. "gopkg.in/check.v1"
 )
 

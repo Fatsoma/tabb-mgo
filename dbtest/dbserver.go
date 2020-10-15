@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	mgo "github.com/tabbgroup/mgo"
+	mgo "github.com/fatsoma/tabb-mgo"
 	"gopkg.in/tomb.v2"
 )
 

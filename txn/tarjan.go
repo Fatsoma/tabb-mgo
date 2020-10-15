@@ -3,7 +3,7 @@ package txn
 import (
 	"sort"
 
-	"github.com/tabbgroup/mgo/bson"
+	"github.com/fatsoma/tabb-mgo/bson"
 )
 
 func tarjanSort(successors map[bson.ObjectId][]bson.ObjectId) [][]bson.ObjectId {
