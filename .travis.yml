@@ -1,6 +1,6 @@
 language: go
 
-go_import_path: github.com/tabbgroup/mgo
+go_import_path: github.com/fatsoma/tabb-mgo
 
 go:
     - 1.10.x
@@ -34,7 +34,7 @@ install:
 
 before_script:
     - golint  ./... | grep -v 'ID' | cat
-    - go vet github.com/tabbgroup/mgo/bson github.com/tabbgroup/mgo/txn github.com/tabbgroup/mgo
+    - go vet github.com/fatsoma/tabb-mgo/bson github.com/fatsoma/tabb-mgo/txn github.com/fatsoma/tabb-mgo
     - export NOIPV6=1
     - make startdb
 

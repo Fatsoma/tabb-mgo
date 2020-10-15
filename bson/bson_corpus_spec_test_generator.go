@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/tabbgroup/mgo/internal/json"
+	"github.com/fatsoma/tabb-mgo/internal/json"
 )
 
 func main() {
@@ -162,7 +162,7 @@ import (
 	"time"
 
 	. "gopkg.in/check.v1"
-    "github.com/tabbgroup/mgo/bson"
+    "github.com/fatsoma/tabb-mgo/bson"
 )
 
 func testValid(c *C, in []byte, expected []byte, result interface{}) {

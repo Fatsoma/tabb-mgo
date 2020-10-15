@@ -39,7 +39,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/tabbgroup/mgo"
+	mgo "github.com/fatsoma/tabb-mgo"
 	. "gopkg.in/check.v1"
 )
 

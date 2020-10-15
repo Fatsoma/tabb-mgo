@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/tabbgroup/mgo/bson"
+	"github.com/fatsoma/tabb-mgo/bson"
 )
 
 type FullDocument string

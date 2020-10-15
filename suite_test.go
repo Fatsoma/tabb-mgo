@@ -38,8 +38,8 @@ import (
 	"testing"
 	"time"
 
-	mgo "github.com/tabbgroup/mgo"
-	"github.com/tabbgroup/mgo/bson"
+	mgo "github.com/fatsoma/tabb-mgo"
+	"github.com/fatsoma/tabb-mgo/bson"
 	. "gopkg.in/check.v1"
 )
 

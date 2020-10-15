@@ -34,8 +34,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/tabbgroup/mgo/bson"
-	"github.com/tabbgroup/mgo/internal/scram"
+	"github.com/fatsoma/tabb-mgo/bson"
+	"github.com/fatsoma/tabb-mgo/internal/scram"
 )
 
 type authCmd struct {

@@ -33,7 +33,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/tabbgroup/mgo/bson"
+	"github.com/fatsoma/tabb-mgo/bson"
 
 	. "gopkg.in/check.v1"
 )

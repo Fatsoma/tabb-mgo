@@ -1,4 +1,4 @@
-module github.com/tabbgroup/mgo
+module github.com/fatsoma/tabb-mgo
 
 go 1.14
 

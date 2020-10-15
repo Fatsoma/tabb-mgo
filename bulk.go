@@ -5,7 +5,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/tabbgroup/mgo/bson"
+	"github.com/fatsoma/tabb-mgo/bson"
 )
 
 // Bulk represents an operation that can be prepared with several

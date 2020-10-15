@@ -7,10 +7,10 @@ import (
 	"testing"
 	"time"
 
-	mgo "github.com/tabbgroup/mgo"
-	"github.com/tabbgroup/mgo/bson"
-	"github.com/tabbgroup/mgo/dbtest"
-	"github.com/tabbgroup/mgo/txn"
+	mgo "github.com/fatsoma/tabb-mgo"
+	"github.com/fatsoma/tabb-mgo/bson"
+	"github.com/fatsoma/tabb-mgo/dbtest"
+	"github.com/fatsoma/tabb-mgo/txn"
 	. "gopkg.in/check.v1"
 )
 

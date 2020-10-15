@@ -46,7 +46,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/tabbgroup/mgo/bson"
+	"github.com/fatsoma/tabb-mgo/bson"
 )
 
 // Mode read preference mode. See Eventual, Monotonic and Strong for details
